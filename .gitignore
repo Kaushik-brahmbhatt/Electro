@@ -3,4 +3,10 @@ wp-config.php
 *.sql
 wp-content/upgrade
 wp-content/uploads
-sitemap.*
+wp-content/advanced-cache.php
+wp-content/et-cache/
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
