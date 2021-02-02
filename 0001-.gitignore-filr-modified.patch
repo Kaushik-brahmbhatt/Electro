@@ -1,0 +1,23 @@
+From fbffda3fc92628b4386ad81cf680e459cf6ec342 Mon Sep 17 00:00:00 2001
+From: Kaushik <kaushikb.mobio@gmail.com>
+Date: Mon, 1 Feb 2021 16:43:59 +0530
+Subject: [PATCH 1/2] .gitignore filr modified
+
+---
+ .gitignore | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/.gitignore b/.gitignore
+index 2672ea6..b9c25af 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -9,4 +9,4 @@ wp-content/et-cache/
+ /license.txt
+ /readme.html
+ /sitemap.xml
+-/sitemap.xml.gz
+\ No newline at end of file
++/sitemap.xml.gz
+-- 
+2.30.0.windows.2
+
